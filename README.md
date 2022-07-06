@@ -9,7 +9,7 @@ We hope that you find this exercise fun and interesting. There are no trick ques
 
 You should use the public WGER API [https://wger.de/en/software/api](https://wger.de/en/software/api) to get exercise information. We'd specifically like you to use the `exercise` endpoint that is documented at [https://wger.de/api/v2/exercise/](https://wger.de/api/v2/exercise/) and filter by the muscles that the exercise trains.
 
-As an example, [https://wger.de/api/v2/exercise?muscles=1](https://wger.de/api/v2/exercise?muscles=1) returns a list of exercise that train biceps.
+As an example, [https://wger.de/api/v2/exercise?muscles=1](https://wger.de/api/v2/exercise?muscles=1) returns a list of exercises that train biceps.
 
 The task is to create an application that accepts a muscle as a parameter. The application should then display the following information about each exercise that trains that muscle by querying the API:
 
@@ -31,7 +31,7 @@ Think about the type of role you are applying for and **choose an appropriate ap
 
 ### Task requirements
 
-Feel free to spend as much or as little time on the exercise as you like as long as the following requirements have been met. However, we understand people have busy lives and would guide you to spend no more than 2-3 hours on a submission.
+Feel free to spend as much or as little time on this as you like as long as the following requirements have been met. However, we understand people have busy lives and would guide you to spend no more than 2-3 hours on a submission.
 
 Please include a readme that details some of your choices and what you would like to have added if you had more time. You should look at this as the complete solution, it's much quicker to explain what you would like to have done than code it.
 
@@ -42,8 +42,11 @@ Please include a readme that details some of your choices and what you would lik
 ### User Story
 
 Given I am a **user running the application**
+
 When I **submit a muscle (e.g. biceps)**
+
 Then I want to see a **list of exercises**
+
 And I only want to see **exercises that train that muscle**
 
 #### Acceptance criteria
