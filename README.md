@@ -53,7 +53,7 @@ And I only want to see **exercises that train that muscle**
 
 # The deliverable
 Please submit a git repository (Github/Bitbucket etc.) that includes your code, along with a README that contains:
-    * A covering note explaining the choices you have made and what you would like to have added if you had more time.
-    * Any instructions required to run your solution and tests in a unix environment.
+- A covering note explaining the choices you have made and what you would like to have added if you had more time.
+- Any instructions required to run your solution and tests in a unix environment.
 
 #### Thanks for your time, we look forward to hearing from you!
